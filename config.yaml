@@ -1,0 +1,8 @@
+model_info:
+    model_name: qwen-turbo
+    api_key: sk-237288c168e94d45b072a1716eba5463
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+    temperature: 0.9
+memobase:
+    project_url: YOUR_PROJECT_URL
+    api_key: YOUR_API_KEY
