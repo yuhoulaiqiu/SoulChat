@@ -5,8 +5,6 @@ go 1.24
 require (
 	github.com/cloudwego/eino v0.4.4
 	github.com/cloudwego/eino-ext/components/model/openai v0.0.0-20250819065230-0fb5ad04c85f
-	github.com/google/uuid v1.6.0
-	github.com/memodb-io/memobase/src/client/memobase-go v0.0.0-20250811134133-cf5f2e267a42
 	github.com/spf13/viper v1.20.1
 )
 
